@@ -1,5 +1,5 @@
 
-# Weather-App-JS
+# WeatherApp
 
 >  A weather app that pulls from the OpenWeatherMap API to allow users to search for and view the forecast in cities worldwide. Built with JavaScript.
 
@@ -27,7 +27,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://samirpaul1.github.io/Weather-App-JS/) :point_left:
+[Live Demo Link](https://samirpaul1.github.io/WeatherApp/) :point_left:
 
 ## Getting Started
 - Follow the live demo link and enjoy the site.
