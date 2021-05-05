@@ -1,23 +1,3 @@
-<!--
-*** Thanks for checking out this README Template. If you have a suggestion that would
-*** make this better, please fork the repo and create a pull request or simply open
-*** an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-[![Contributors][contributors-shield]][contributors-url] 
-[![Forks][forks-shield]][forks-url] 
-[![Stargazers][stars-shield]][stars-url] 
-[![Issues][issues-shield]][issues-url] 
-![Hireable](https://cdn.rawgit.com/hiendv/hireable/master/styles/default/yes.svg) 
 
 # Weather-App-JS
 
@@ -47,7 +27,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://raw.githack.com/javitocor/Weather-App-JS/feature/dist/index.html) :point_left:
+[Live Demo Link](https://samirpaul1.github.io/Weather-App-JS/) :point_left:
 
 ## Getting Started
 - Follow the live demo link and enjoy the site.
@@ -72,25 +52,15 @@ Clone the repository unto your local machine cd to the folder.
 
 ## Author
 
-👤 Javier Oriol Correas Sanchez Cuesta 
-- Github: [@javitocor](https://github.com/javitocor) 
-- Twitter: [@JavierCorreas4](https://twitter.com/JavierCorreas4) 
-- Linkedin: [Javier Oriol Correas Sanchez Cuesta](https://www.linkedin.com/in/javier-correas-sanchez-cuesta-15289482/) 
-
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!
-
-Feel free to check the [issues page](https://github.com/javitocor/Weather-App-JS/issues).
+👤 SAMIR PAUL
+- Github: [@SamirPaul1](https://github.com/SamirPaul1) 
+- Twitter: [@SamirPaul01](https://twitter.com/SamirPaul01) 
+- Linkedin: [samirpaul](https://www.linkedin.com/in/samirpaul/) 
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments 🚀
-
-- The Odin Project
-- Microverse
 
 ## 📝 License
 
