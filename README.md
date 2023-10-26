@@ -26,7 +26,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://samirpaul1.github.io/WeatherApp/) :point_left:
+[Live Demo Link](https://samirpaulb.github.io/WeatherApp/) :point_left:
 
 ## Getting Started
 - Follow the live demo link and enjoy the site.
@@ -52,8 +52,8 @@ Clone the repository unto your local machine cd to the folder.
 ## Author
 
 👤 SAMIR PAUL
-- Github: [@SamirPaul1](https://github.com/SamirPaul1) 
-- Twitter: [@SamirPaul01](https://twitter.com/SamirPaul01) 
+- Github: [@SamirPaulb](https://github.com/SamirPaulb) 
+- Twitter: [@SamirPaulb](https://twitter.com/SamirPaulb) 
 - Linkedin: [samirpaul](https://www.linkedin.com/in/samirpaul/) 
 
 ## Show your support
